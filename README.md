@@ -20,14 +20,14 @@ Heres the link to our deployed Netlify site: https://main--weatherguesserproject
 ## Design Principles of the Site
 
 # Color Palette
-Our site has a dark mdodern color scheme with a background color of #333, and white text color. Our interactive button elements have gradients. 
+Our site has a dark modern color scheme with a background color of #333, and white text color. Our interactive button elements have gradients. 
 
 
 # Fonts
 Our site uses Roboto, known for its readability and clean appearance. 
 
 # Layout
-The layout is structured and clean, with a flex-based setup that centers content and aligns it vertically and horizontally to ensure an organized presentation on various devices. 
+The layout is structured and clean, with a flex-based setup that centers content and aligns it vertically and horizontally to ensure an organized presentation on various devices. We also have a sidear for navigation
 
 # Purpose of the Site
 The site is designed to engage users in an interactive way by allowing them to guess the temperature of different locations around the world.
