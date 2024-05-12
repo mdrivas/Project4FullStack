@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 This project was made my Mattheos Drivas and Quillan Gee for our CPSC 458 Final! Here's a link to our google slides presentation (link).
 
-Heres the link to our deployed Netlify site: https://main--weatherguesserproject.netlify.app/guess
+Heres the link to our deployed Netlify site: https://main--weatherguesserproject.netlify.app
 
 ## Design Principles of the Site
 
@@ -36,7 +36,7 @@ The site is designed to engage users in an interactive way by allowing them to g
 Yes, the site is designed to look good on multiple screen sizes. The use of CSS media queries and flexible layout options ensures that the site adapts to different screen sizes.
 
 # Netlify
-https://main--weatherguesserproject.netlify.app/guess
+https://main--weatherguesserproject.netlify.app
 
 # React's state management to keep track of user interactions
 
