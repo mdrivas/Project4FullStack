@@ -12,8 +12,8 @@ export default function Home() {
           <a className="play-button">Play Now</a>
         </Link>
         <div className="image-container">
-          <Image src="/image3.jpeg" alt="Nature landscape" width={300} height={200} layout="responsive" />
-          <Image src="/image4.jpeg" alt="Nature landscape" width={300} height={200} layout="responsive" />
+          <Image src="/image3.jpeg" alt="Nature landscape" width={300} height={200} layout="intrinsic" />
+          <Image src="/image4.jpeg" alt="Nature landscape" width={300} height={200} layout="intrinsic" />
           {}
         </div>
       </div>
