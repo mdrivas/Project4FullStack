@@ -40,7 +40,7 @@ https://main--weatherguesserproject.netlify.app/guess
 
 # React's state management to keep track of user interactions
 
-City and Temperature Guesses: State variables such as city and guessTemp store the user's inputs, which are then used to fetch and display weather data.
-Weather Data: The state variable weatherData holds the data fetched from the API, allowing the UI to update dynamically to reflect the actual weather conditions and compare them against the user's guess.
+State variables like city and guessTemp store the user's inputs, which are then used to fetch and display weather data.
+The state variable weatherData holds the data fetched from the API, allowing the UI to update dynamically to reflect the actual weather conditions and compare them against the user's guess.
 
-The site fetches weather data from a openWeatherMap API, which provides real-time weather information that is crucial for the app's functionality. The fetchWeatherData function is used to make API calls to retrieve the current weather conditions based on the user's input.
+Our site fetches weather data from openWeatherMap API, which provides real-time weather information that is crucial for the app's functionality. The fetchWeatherData function is used to make API calls to retrieve the current weather conditions based on the user's input.
