@@ -35,7 +35,7 @@ The site is designed to engage users in an interactive way by allowing them to g
 # Responsiveness Across Multiple Screen Sizes
 Yes, the site is designed to look good on multiple screen sizes. The use of CSS media queries and flexible layout options ensures that the site adapts to different screen sizes.
 
-# Netlify URL of the Site
+# Netlify
 https://main--weatherguesserproject.netlify.app/guess
 
 # React's state management to keep track of user interactions
