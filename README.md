@@ -38,7 +38,7 @@ Yes, the site is designed to look good on multiple screen sizes. The use of CSS 
 # Netlify URL of the Site
 https://main--weatherguesserproject.netlify.app/guess
 
-# Our site uses React's state management to keep track of user interactions
+# React's state management to keep track of user interactions
 
 City and Temperature Guesses: State variables such as city and guessTemp store the user's inputs, which are then used to fetch and display weather data.
 Weather Data: The state variable weatherData holds the data fetched from the API, allowing the UI to update dynamically to reflect the actual weather conditions and compare them against the user's guess.
