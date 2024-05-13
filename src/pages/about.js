@@ -6,7 +6,7 @@ export default function About() {
     <Layout>
       <div className="app-container">
         <h1>About Our App</h1>
-        <p>This site was created by Mattheos Drivas and Quillan Gee for our CPSC 458 Final! Here's a link to our GitHub and slides presentation to learn more.</p>
+        <p>This site was created by Mattheos Drivas and Quillan Gee for our CPSC 458 Final! Heres a link to our GitHub and slides presentation to learn more.</p>
         <div className="button-container">
           <button className="github-button" onClick={() => window.open('https://github.com/yourgithubprofile/project', '_blank')}>
             <img src={"/github.png"} alt="GitHub Logo" className="logo" />
