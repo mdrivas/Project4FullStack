@@ -1,6 +1,6 @@
 // weatherAPI.js
 
-const API_KEY = "bbb37b7d419148fbbb365541240605";
+import { API_KEY } from './config.js';
 const BASE_URL = "https://api.weatherapi.com/v1/current.json";
 
 export const fetchWeatherData = async (location) => {
