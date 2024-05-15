@@ -8,7 +8,7 @@ export default function About() {
         <h1>About Our App</h1>
         <p>This site was created by Mattheos Drivas and Quillan Gee for our CPSC 458 Final! Heres a link to our GitHub and slides presentation to learn more.</p>
         <div className="button-container">
-          <button className="github-button" onClick={() => window.open('https://github.com/yourgithubprofile/project', '_blank')}>
+          <button className="github-button" onClick={() => window.open('https://github.com/mdrivas/Project4FullStack', '_blank')}>
             <img src={"/github.png"} alt="GitHub Logo" className="logo" />
             GitHub
           </button>
