@@ -18,7 +18,6 @@ export default function Guess() {
       setDisplayGuessTemp(guessTemp); // Update displayed temperature guess only on button click
     } catch (error) {
       console.error('Failed to fetch weather data:', error);
-      // Optionally handle errors in the UI
     }
   };
 
