@@ -30,6 +30,10 @@ yarn-error.log*
 # Environment Variables
 .env.local
 
+#gitingore
+
+config.js
+.config.js
 
 # vercel
 .vercel
