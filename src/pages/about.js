@@ -12,7 +12,7 @@ export default function About() {
             <img src={"/github.png"} alt="GitHub Logo" className="logo" />
             GitHub
           </button>
-          <button className="google-button" onClick={() => window.open('https://docs.google.com/presentation/d/yourpresentationid', '_blank')}>
+          <button className="google-button" onClick={() => window.open('https://docs.google.com/presentation/d/15uu-vaswrypXZMFTa6aCwS2IyMnw-P99XwdBO0GhWcc/edit#slide=id.g2dc074b9180_0_3', '_blank')}>
             <img src={"/google.webp"} alt="Google Logo" className="logo" />
             Slides
           </button>
